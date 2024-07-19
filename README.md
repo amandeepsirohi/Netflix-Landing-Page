@@ -27,3 +27,4 @@ cd netflix-landing-page
 ## Contributing
 If you'd like to contribute, please fork the repository and then create a pull request.
 
+Making this a fullstack web app 
